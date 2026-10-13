@@ -42,7 +42,7 @@
             {{ $wisata['deskripsi'] }}
         </p>
 
-        <a href="{{ routes('wisata.index') }}"
+        <a href="{{ route('wisata.index') }}"
            class="btn btn-jogja mt-3">
             Lihat Wisata Lainnya
         </a>
