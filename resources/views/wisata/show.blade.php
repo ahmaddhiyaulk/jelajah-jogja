@@ -16,8 +16,8 @@
     <img
         src="{{ $wisata['gambar'] }}"
         alt="{{ $wisata['nama'] }}"
-        class="card-img-top"
-        style="height: 420px;"
+        class="img-fluid"
+        style="width: 100%; height: auto;"
     >
 
     <div class="card-body p-4 p-md-5">
